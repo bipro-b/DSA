@@ -1,8 +1,5 @@
 // singly linked list implentation with operation
-/*
-I am Bipro Barai. Recently i am studying
-at Chittagong Univesity of Engineering and
-Technology on department of Compueter Science and Engineering*/
+
 #include <bits/stdc++.h>
 using namespace std;
 struct node
